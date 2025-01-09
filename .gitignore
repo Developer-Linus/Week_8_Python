@@ -1,0 +1,4 @@
+weatherenv/
+.env
+weatherupdate/__pycache__
+weatherupdate/weatherapp/__pycache__
